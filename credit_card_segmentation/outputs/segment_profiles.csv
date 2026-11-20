@@ -1,0 +1,5 @@
+segment,balance,purchases,oneoff_purchases,installments_purchases,cash_advance,purchases_frequency,credit_limit,payments,minimum_payments,prc_full_payment,tenure
+High Spender,3440.89,4227.36,2160.16,2067.2,652.57,0.79,9344.75,4116.53,337.2,0.35,11.02
+Low Spender,894.17,319.81,160.97,158.84,534.32,0.15,2621.82,535.48,93.04,0.07,10.92
+Moderate Spender,2067.74,1305.31,656.12,649.2,960.28,0.45,5174.1,1411.9,196.53,0.15,11.07
+Premium,5702.07,13349.82,6344.8,7005.03,404.35,0.94,20837.4,12479.22,575.64,0.69,11.09
