@@ -1,0 +1,13 @@
+{
+  "n_raw_rows": 144,
+  "year_min": 1880,
+  "year_max": 2023,
+  "test_size": 0.2,
+  "rf__max_depth": "None",
+  "rf__min_samples_leaf": "1",
+  "rf__n_estimators": "300",
+  "weights": "[1, 1]",
+  "cv_strategy": "TimeSeriesSplit(5)",
+  "n_train_rows": 107,
+  "n_features": 34
+}

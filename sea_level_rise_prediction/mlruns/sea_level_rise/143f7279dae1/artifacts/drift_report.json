@@ -1,0 +1,34 @@
+{
+  "train_late": {
+    "reference": "train",
+    "current": "train_late",
+    "ks_statistic": 0.47680858428521977,
+    "ks_pvalue": 7.044839423510998e-08,
+    "psi": 5.068411674178464,
+    "psi_level": "significant",
+    "drift_detected": true
+  },
+  "test": {
+    "reference": "train",
+    "current": "test",
+    "ks_statistic": 0.9906542056074766,
+    "ks_pvalue": 3.752759231097213e-27,
+    "psi": 12.368503115438436,
+    "psi_level": "significant",
+    "drift_detected": true
+  },
+  "summary": {
+    "reference": "train",
+    "any_drift": true,
+    "retrain_recommended": true
+  },
+  "residuals": {
+    "reference": "train_residuals",
+    "current": "test_residuals",
+    "ks_statistic": 0.5088265835929388,
+    "ks_pvalue": 1.0149319287118046e-05,
+    "psi": 5.414952718608282,
+    "psi_level": "significant",
+    "drift_detected": true
+  }
+}

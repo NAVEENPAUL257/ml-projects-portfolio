@@ -1,0 +1,12 @@
+[
+  {
+    "params": "{'rf__max_depth': None, 'rf__n_estimators': 100, 'weights': [1, 3]}",
+    "mean_test_score": -14.965039796769585,
+    "rank_test_score": 1
+  },
+  {
+    "params": "{'rf__max_depth': 8, 'rf__n_estimators': 100, 'weights': [1, 3]}",
+    "mean_test_score": -14.985283707398235,
+    "rank_test_score": 2
+  }
+]
