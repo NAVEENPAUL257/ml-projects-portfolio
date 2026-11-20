@@ -1,0 +1,19 @@
+{
+  "rows_in": 6120,
+  "nulls_in": {
+    "show_id": 0,
+    "type": 0,
+    "title": 0,
+    "genre": 0,
+    "country": 458,
+    "rating": 69,
+    "release_year": 0,
+    "date_added": 65,
+    "duration": 0,
+    "description": 28
+  },
+  "duplicates_removed": 120,
+  "rows_dropped_no_date": 65,
+  "rows_out": 5935,
+  "nulls_out": 0
+}

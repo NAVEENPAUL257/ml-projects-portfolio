@@ -1,0 +1,15 @@
+{
+  "total_titles": 5935,
+  "movies": 3367,
+  "tv_shows": 2568,
+  "countries": 13,
+  "distinct_genres": 11,
+  "release_year_range": [
+    1990,
+    2023
+  ],
+  "median_movie_minutes": 100.0,
+  "most_common_rating": "TV-MA",
+  "top_genre": "Thrillers",
+  "top_country": "United States"
+}
